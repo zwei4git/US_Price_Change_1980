@@ -2,6 +2,7 @@
 ### Prices Change of Selected Items in the U.S. from 1980
 
 ## Data Sources
+### All in current dollars without adjustment for inflation
 Median house price: https://fred.stlouisfed.org/series/MSPUS
 (Median Sales Price of Houses Sold for the United States)
 
