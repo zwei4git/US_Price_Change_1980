@@ -1,5 +1,5 @@
 # US_Price_Change_1980
-### Price Change of Selected Items in the U.S. from 1980
+### Prices Change of Selected Items in the U.S. from 1980
 
 ## Data Sources
 Median house price: https://fred.stlouisfed.org/series/MSPUS
