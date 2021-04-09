@@ -33,7 +33,7 @@ library(scales)
 #Yearly ending price
 
 #Income: https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
-##Census historical househhold income
+##Census historical household income
 ##########################
 
 #Coffee Coffee, 
