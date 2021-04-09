@@ -1,7 +1,7 @@
 # US_Price_Change_1980
 
 ## Data Sources
-Meidan house price: https://fred.stlouisfed.org/series/MSPUS
+Median house price: https://fred.stlouisfed.org/series/MSPUS
 (Median Sales Price of Houses Sold for the United States)
 
 Mean tuition: https://nces.ed.gov/programs/digest/d19/tables/dt19_330.10.asp?current=yes
