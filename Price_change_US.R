@@ -89,7 +89,7 @@ bacon_1%>%
   mutate(bacon_pct=100*(bacon/first(bacon))-100)%>%
   select(Year,bacon_pct)->bacon_2
 
-#The 19-20 tuition estimated by *1.02 to 18-19 data ("1.03" estimated from 
+#The 19-20 tuition estimated by *1.03 to 18-19 data ("1.03" estimated from 
 # previous annual growth from 2016-2019:mean(c(1.033,1.029,1.032,1.033))=1.032
 # 24623*1.032=25410
 tuition <- read_excel("~/tuition.xls")
